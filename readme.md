@@ -24,7 +24,7 @@ Repozytorium zawiera stronę internetową poświęconą gwiazdozbiorowi Orion wr
 - Zapisano zmiany w readme.md o utworzeniu pliku HTML
 - Wykonano commit i merge do `main`
 
-### 2. Gałąź `Galaz-css `
+### 2. Gałąź `Galaz-css`
 
 - Rozbudowano plik `style.css`
 - Dodano ciemne tło kosmiczne dla całego dokumentu (`body`)
